@@ -1,5 +1,5 @@
 public class Ejercicio {
     public static void main(String[] args) {
-        System.out.println("bona nit");
+        System.out.println("este es el branch 2");
     }
 }
